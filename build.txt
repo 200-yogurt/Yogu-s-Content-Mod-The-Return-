@@ -1,0 +1,3 @@
+displayName = Yogu's Content Mod
+author = Yogu The Yogurt & LolXD87
+version = 0.1
