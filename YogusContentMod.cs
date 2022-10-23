@@ -4,5 +4,6 @@ namespace YogusContentMod
 {
 	public class YogusContentMod : Mod
 	{
+
 	}
 }
